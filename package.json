@@ -1,6 +1,6 @@
 {
   "name": "alm12_to-do-list",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "This is a to do list programm based on cli",
   "main": "index.js",
   "type": "module",
